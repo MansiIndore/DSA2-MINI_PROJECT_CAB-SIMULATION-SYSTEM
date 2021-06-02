@@ -56,8 +56,10 @@ Project is divided into two parts:
 Structure of project:
 
    ![git1](https://user-images.githubusercontent.com/77200307/120429197-9c4f0d00-c392-11eb-91fe-83cbe1dfb100.jpg)
-![git2](https://user-images.githubusercontent.com/77200307/120429206-9e18d080-c392-11eb-9a16-f8876cc711e8.jpg)
-![git3](https://user-images.githubusercontent.com/77200307/120429214-a07b2a80-c392-11eb-81b0-b2cc10f90a32.jpg)
+   
+   ![git2](https://user-images.githubusercontent.com/77200307/120429206-9e18d080-c392-11eb-9a16-f8876cc711e8.jpg)
+   
+   ![git3](https://user-images.githubusercontent.com/77200307/120429214-a07b2a80-c392-11eb-81b0-b2cc10f90a32.jpg)
   
    
    
