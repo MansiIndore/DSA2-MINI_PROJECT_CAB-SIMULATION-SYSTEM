@@ -1,0 +1,389 @@
+package Mini_Project2;
+
+----------------------WELCOME---------------------------
+
+DO YOU WANT TO : 
+0. EXIT
+1. LOGIN AS ADMIN
+2. LOGIN AS DRIVER
+3. BOOK A CAB
+
+--------------------------------------------------------
+Enter your choice: 1
+
+Enter password :1234
+
+-------------------WELCOME ADMIN------------------------
+
+DO YOU WANT TO : 
+0. EXIT
+1. FIND PROFIT
+2. FIND TOTAL REVENUE
+3. FIND TOTAL EXPENDITURE
+4. FIND TOTAL EXPENDITURE ON DAILY WAGES
+5. FIND MAXIMUM TRAVELLED LOCATION
+6. UPDATE FUEL PRICES
+7. CHANGE WAGE PER KM RATE
+
+--------------------------------------------------------
+
+What is your choice ?
+1
+
+--------------------------------------------------------
+TOTAL REVENUE : 0.0
+--------------------------------------------------------
+--------------------------------------------------------
+TOTAL EXPENDITURE ON PETROL/ DIESEL : 0.0
+--------------------------------------------------------
+--------------------------------------------------------
+TOTAL EXPENDETURE ON WAGES : 0
+--------------------------------------------------------
+--------------------------------------------------------
+TOTAL PROFIT : 0.0
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. FIND PROFIT
+2. FIND TOTAL REVENUE
+3. FIND TOTAL EXPENDITURE
+4. FIND TOTAL EXPENDITURE ON DAILY WAGES
+5. FIND MAXIMUM TRAVELLED LOCATION
+6. UPDATE FUEL PRICES
+7. CHANGE WAGE PER KM RATE
+
+--------------------------------------------------------
+
+What is your choice ?
+5
+
+--------------------------------------------------------
+MOST TRAVELLED LOCATION IS : 
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. FIND PROFIT
+2. FIND TOTAL REVENUE
+3. FIND TOTAL EXPENDITURE
+4. FIND TOTAL EXPENDITURE ON DAILY WAGES
+5. FIND MAXIMUM TRAVELLED LOCATION
+6. UPDATE FUEL PRICES
+7. CHANGE WAGE PER KM RATE
+
+--------------------------------------------------------
+
+What is your choice ?
+6
+
+--------------------------------------------------------
+ENTER NEW PETROL PRICE: 100
+
+ENTER NEW DIESEL PRICE: 98
+
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. FIND PROFIT
+2. FIND TOTAL REVENUE
+3. FIND TOTAL EXPENDITURE
+4. FIND TOTAL EXPENDITURE ON DAILY WAGES
+5. FIND MAXIMUM TRAVELLED LOCATION
+6. UPDATE FUEL PRICES
+7. CHANGE WAGE PER KM RATE
+
+--------------------------------------------------------
+
+What is your choice ?
+7
+
+--------------------------------------------------------
+Enter new wage rate per kilometer : 2
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. FIND PROFIT
+2. FIND TOTAL REVENUE
+3. FIND TOTAL EXPENDITURE
+4. FIND TOTAL EXPENDITURE ON DAILY WAGES
+5. FIND MAXIMUM TRAVELLED LOCATION
+6. UPDATE FUEL PRICES
+7. CHANGE WAGE PER KM RATE
+
+--------------------------------------------------------
+
+What is your choice ?
+0
+
+**ADMIN EXIT COMPLETED !!
+---------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. LOGIN AS ADMIN
+2. LOGIN AS DRIVER
+3. BOOK A CAB
+
+--------------------------------------------------------
+Enter your choice: 3
+
+--------------------WELCOME USER------------------------
+
+DO YOU WANT TO : 
+0. EXIT
+1. BOOK RIDE
+--------------------------------------------------------
+
+What is your choice ?
+1
+
+---------------Welcome to BookMyRide.com!----------------
+Enter your details: 
+NAME: PRATIKSHA
+PHONE NO: 
+7894
+Invalid phone number!..please try again
+PHONE NO: 
+7894561235
+REGISTRATION SUCCESSFULL!
+
+Locations: 
+1. School
+2. Airport
+3. Railway Station
+4. Hospital
+5. Super Market
+6. Housing Society
+
+PICK-UP LOCATION: 5
+DROP LOCATION: 4
+Number of passengers for the ride less than 4 ?
+
+Press :
+	1. Yes 
+	2. No
+1
+Checking Availability..
+Micro cars not available!..Would you like to upgrade to sedan
+Press :
+	1. To upgrade 
+	0. No
+1
+Checking Availability..
+Sedan Cab
+Allocated--press any key to continue 
+2
+--------------------------------------------------------
+YOUR ROUTE IS :
+->Super Market->Railway Station->Airport->School->Hospital
+--------------------------------------------------------
+Your Driver is on his way! Details are: 
+Name: Manish
+Contact No: 8942136014
+Car Number: MH12CX701
+--------------------------------------------------------
+
+--------------------------------------------------------
+
+Payable amount Rs. 656
+Thank You! Hope you enjoyed the ride!
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. BOOK RIDE
+--------------------------------------------------------
+
+What is your choice ?
+1
+
+---------------Welcome to BookMyRide.com!----------------
+Enter your details: 
+NAME: NEHA
+PHONE NO: 
+7894561235
+REGISTRATION SUCCESSFULL!
+
+Locations: 
+1. School
+2. Airport
+3. Railway Station
+4. Hospital
+5. Super Market
+6. Housing Society
+
+PICK-UP LOCATION: 6
+DROP LOCATION: 1
+Number of passengers for the ride less than 4 ?
+
+Press :
+	1. Yes 
+	2. No
+2
+Checking Availability..
+Sedan Cab
+Allocated--press any key to continue 
+5
+--------------------------------------------------------
+YOUR ROUTE IS :
+->Housing Society->School
+--------------------------------------------------------
+Your Driver is on his way! Details are: 
+Name: Raj
+Contact No: 9988076542
+Car Number: MH12AB6782
+--------------------------------------------------------
+
+--------------------------------------------------------
+
+Payable amount Rs. 192
+Thank You! Hope you enjoyed the ride!
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. BOOK RIDE
+--------------------------------------------------------
+
+What is your choice ?
+0
+
+**PASSENGER EXIT COMPLETED !!
+---------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. LOGIN AS ADMIN
+2. LOGIN AS DRIVER
+3. BOOK A CAB
+
+--------------------------------------------------------
+Enter your choice: 1
+
+Enter password :1234
+
+-------------------WELCOME ADMIN------------------------
+
+DO YOU WANT TO : 
+0. EXIT
+1. FIND PROFIT
+2. FIND TOTAL REVENUE
+3. FIND TOTAL EXPENDITURE
+4. FIND TOTAL EXPENDITURE ON DAILY WAGES
+5. FIND MAXIMUM TRAVELLED LOCATION
+6. UPDATE FUEL PRICES
+7. CHANGE WAGE PER KM RATE
+
+--------------------------------------------------------
+
+What is your choice ?
+1
+
+--------------------------------------------------------
+TOTAL REVENUE : 848.0
+--------------------------------------------------------
+--------------------------------------------------------
+TOTAL EXPENDITURE ON PETROL/ DIESEL : 5300.0
+--------------------------------------------------------
+--------------------------------------------------------
+TOTAL EXPENDETURE ON WAGES : 106
+--------------------------------------------------------
+--------------------------------------------------------
+TOTAL PROFIT : -4558.0
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. FIND PROFIT
+2. FIND TOTAL REVENUE
+3. FIND TOTAL EXPENDITURE
+4. FIND TOTAL EXPENDITURE ON DAILY WAGES
+5. FIND MAXIMUM TRAVELLED LOCATION
+6. UPDATE FUEL PRICES
+7. CHANGE WAGE PER KM RATE
+
+--------------------------------------------------------
+
+What is your choice ?
+0
+
+**ADMIN EXIT COMPLETED !!
+---------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. LOGIN AS ADMIN
+2. LOGIN AS DRIVER
+3. BOOK A CAB
+
+--------------------------------------------------------
+Enter your choice: 2
+
+-------------------WELCOME DRIVER-----------------------
+
+DO YOU WANT TO : 
+0. EXIT
+1. DRIVER REGISTRATION
+2. KNOW YOUR DAILY WAGE
+--------------------------------------------------------
+
+What is your choice ?
+1
+
+--------------------------------------------------------
+Locations: 
+1. School
+2. Airport
+3. Railway Station
+4. Hospital
+5. Super Market
+6. Housing Society
+
+Enter your location:5
+Enter your name:SHRUTIK
+Enter mobile number:8945671235
+Enter adhar_no:
+951951951951
+Enter car number:MH15BH1235
+1.Micro Cab
+2.Sedan Cab
+Select your car type:2
+
+1.Petrol
+2.Diesel
+
+Enter fuel type:2
+Driver Registration completed !!
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. DRIVER REGISTRATION
+2. KNOW YOUR DAILY WAGE
+--------------------------------------------------------
+
+What is your choice ?
+2
+--------------------------------------------------------
+ENTER ADHAR NUMBER : 
+78945
+Invalid adhar number!!
+ENTER ADHAR NUMBER : 
+852852852852
+TODAYS WAGE : 65
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. DRIVER REGISTRATION
+2. KNOW YOUR DAILY WAGE
+--------------------------------------------------------
+
+What is your choice ?
+0
+**DRIVER EXIT COMPLETED !!
+--------------------------------------------------------
+DO YOU WANT TO : 
+0. EXIT
+1. LOGIN AS ADMIN
+2. LOGIN AS DRIVER
+3. BOOK A CAB
+
+--------------------------------------------------------
+Enter your choice: 0
+
+***TERMINATED***
+--------------------------------------------------------
+
+
